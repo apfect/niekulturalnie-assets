@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="228.62111mm"
+   height="119.1885mm"
+   viewBox="0 0 810.0748 422.32145"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Roughen"
+       id="filter6038">
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="3"
+         seed="18"
+         baseFrequency="0.0597 0.0594"
+         result="turbulence"
+         id="feTurbulence6040" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap6042" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Roughen"
+       id="filter6044">
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="3"
+         seed="18"
+         baseFrequency="0.0597 0.0594"
+         result="turbulence"
+         id="feTurbulence6046" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap6048" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="253.13937"
+     inkscape:cy="215.61258"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-center="false"
+     inkscape:window-width="1539"
+     inkscape:window-height="876"
+     inkscape:window-x="61"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-left="-19"
+     fit-margin-top="-7"
+     fit-margin-bottom="-7"
+     fit-margin-right="-19"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     showborder="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(24.209907,-176.52111)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#1de31c;stroke-width:1.63961601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6093"
+       width="771.8634"
+       height="176.45621"
+       x="-131.04138"
+       y="393.70868"
+       transform="matrix(0.95703352,-0.28997731,0.28436395,0.9587164,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:128.14558411px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';letter-spacing:0px;word-spacing:0px;fill:#e31c1c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter6044)"
+       x="-146.48642"
+       y="426.8941"
+       id="text3336"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.73231046,-0.21989618,0.3761269,1.2525987,0,-11.121388)"><tspan
+         sodipodi:role="line"
+         id="tspan3338"
+         x="-146.48642"
+         y="426.8941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:128.14558411px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#e31c1c;fill-opacity:1">NIEKULTURALNIE.PL</tspan></text>
+    <rect
+       style="fill:none;stroke:#e31c1c;stroke-width:16.80100096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6038)"
+       id="rect3762"
+       width="767.93567"
+       height="180.02692"
+       x="-134.20924"
+       y="402.42252"
+       transform="matrix(0.95775317,-0.2875915,0.2875915,0.95775317,0,-12.121831)" />
+  </g>
+</svg>
